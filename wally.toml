@@ -1,6 +1,6 @@
 [package]
 name = "etheroit/profileservice"
-version = "1.1.0"
+version = "1.2.0"
 license = "Apache License 2.0"
 authors = ["loleris"]
 description = "loleris' ProfileService forked for wally"
