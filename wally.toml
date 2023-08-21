@@ -1,5 +1,5 @@
 [package]
-name = "Etheroit/profileservice"
+name = "etheroit/profileservice"
 version = "1.1.0"
 license = "Apache License 2.0"
 authors = ["loleris"]
